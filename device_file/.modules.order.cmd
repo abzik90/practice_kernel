@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/device_file/modules.order := {   echo /home/nurbol/Desktop/practice_kernel/device_file/dev_file.o; :; } > /home/nurbol/Desktop/practice_kernel/device_file/modules.order
