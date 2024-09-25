@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/character_device_major_minor/major_minor.mod := printf '%s\n'   major_minor.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/character_device_major_minor/"$$0) }' > /home/nurbol/Desktop/practice_kernel/character_device_major_minor/major_minor.mod

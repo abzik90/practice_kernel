@@ -1,0 +1,1 @@
+/home/nurbol/Desktop/practice_kernel/character_device_major_minor/major_minor.o
