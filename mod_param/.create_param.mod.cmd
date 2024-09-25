@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.mod := printf '%s\n'   create_param.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/tutorial_kernel/mod_param/"$$0) }' > /home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.ko /home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.o /home/nurbol/Desktop/tutorial_kernel/mod_param/create_param.mod.o

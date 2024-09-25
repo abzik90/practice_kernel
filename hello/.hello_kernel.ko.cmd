@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/tutorial_kernel/hello_kernel.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nurbol/Desktop/tutorial_kernel/hello_kernel.ko /home/nurbol/Desktop/tutorial_kernel/hello_kernel.o /home/nurbol/Desktop/tutorial_kernel/hello_kernel.mod.o

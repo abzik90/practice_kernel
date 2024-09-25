@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/tutorial_kernel/hello_kernel.mod := printf '%s\n'   hello_kernel.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/tutorial_kernel/"$$0) }' > /home/nurbol/Desktop/tutorial_kernel/hello_kernel.mod
