@@ -13,7 +13,6 @@ static int init_func(void){
 }
 
 static void exit_func(void){
-    printk(KERN_INFO "Pre");
     unregister_chrdev_region(dev, 1);
     printk(KERN_INFO "Kernel Module removed successfully");
 }
