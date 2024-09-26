@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/file_operations/ops.mod := printf '%s\n'   ops.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/file_operations/"$$0) }' > /home/nurbol/Desktop/practice_kernel/file_operations/ops.mod

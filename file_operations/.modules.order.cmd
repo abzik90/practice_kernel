@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/file_operations/modules.order := {   echo /home/nurbol/Desktop/practice_kernel/file_operations/ops.o; :; } > /home/nurbol/Desktop/practice_kernel/file_operations/modules.order

@@ -14,7 +14,7 @@ static int init_func(void){
 
 static void exit_func(void){
     unregister_chrdev_region(dev, 1);
-    printk(KERN_INFO "Kernel Module removed successfully");
+    printk(KERN_INFO "Kernel Module removed successfully\n");
 }
 
 module_init(init_func);
