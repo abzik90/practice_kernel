@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/ioctl/ioctl_practice.mod := printf '%s\n'   ioctl_practice.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/ioctl/"$$0) }' > /home/nurbol/Desktop/practice_kernel/ioctl/ioctl_practice.mod

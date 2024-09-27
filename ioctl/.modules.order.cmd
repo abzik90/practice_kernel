@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/ioctl/modules.order := {   echo /home/nurbol/Desktop/practice_kernel/ioctl/ioctl_practice.o; :; } > /home/nurbol/Desktop/practice_kernel/ioctl/modules.order
