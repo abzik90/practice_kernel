@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/proc/proc.mod := printf '%s\n'   proc.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/proc/"$$0) }' > /home/nurbol/Desktop/practice_kernel/proc/proc.mod

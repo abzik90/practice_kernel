@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/proc/proc.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nurbol/Desktop/practice_kernel/proc/proc.ko /home/nurbol/Desktop/practice_kernel/proc/proc.o /home/nurbol/Desktop/practice_kernel/proc/proc.mod.o
