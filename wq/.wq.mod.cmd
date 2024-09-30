@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/wq/wq.mod := printf '%s\n'   wq.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/wq/"$$0) }' > /home/nurbol/Desktop/practice_kernel/wq/wq.mod
