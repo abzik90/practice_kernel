@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/sys/sys_practice.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nurbol/Desktop/practice_kernel/sys/sys_practice.ko /home/nurbol/Desktop/practice_kernel/sys/sys_practice.o /home/nurbol/Desktop/practice_kernel/sys/sys_practice.mod.o

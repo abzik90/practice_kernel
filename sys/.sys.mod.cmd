@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/sys/sys.mod := printf '%s\n'   sys.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/sys/"$$0) }' > /home/nurbol/Desktop/practice_kernel/sys/sys.mod
