@@ -101,6 +101,7 @@ r_class:
 
 // Exit function
 static void ops_exit(void){
+    kobject_put(kobj_ref);
     device_destroy(dev_class, dev);
     class_destroy(dev_class);
     cdev_del(&dev_cdev);
