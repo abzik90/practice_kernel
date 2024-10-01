@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/interrupts/interrupt_practice.mod := printf '%s\n'   interrupt_practice.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/interrupts/"$$0) }' > /home/nurbol/Desktop/practice_kernel/interrupts/interrupt_practice.mod

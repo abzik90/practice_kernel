@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers -T /home/nurbol/Desktop/practice_kernel/interrupts/modules.order -i Module.symvers -e 
