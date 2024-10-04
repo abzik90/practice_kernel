@@ -1,1 +1,1 @@
-/home/nurbol/Desktop/tutorial_kernel/hello_kernel.o
+/home/nurbol/Desktop/practice_kernel/hello/hello_kernel.o

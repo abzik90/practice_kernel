@@ -1,1 +1,1 @@
-savedcmd_/home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers -T /home/nurbol/Desktop/practice_kernel/interrupts/modules.order -i Module.symvers -e 
+cmd_/home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers := sed 's/\.ko$$/\.o/' /home/nurbol/Desktop/practice_kernel/interrupts/modules.order | scripts/mod/modpost -m -a  -o /home/nurbol/Desktop/practice_kernel/interrupts/Module.symvers -e -i Module.symvers   -T -

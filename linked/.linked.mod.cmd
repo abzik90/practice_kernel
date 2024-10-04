@@ -1,0 +1,1 @@
+savedcmd_/home/nurbol/Desktop/practice_kernel/linked/linked.mod := printf '%s\n'   linked.o | awk '!x[$$0]++ { print("/home/nurbol/Desktop/practice_kernel/linked/"$$0) }' > /home/nurbol/Desktop/practice_kernel/linked/linked.mod

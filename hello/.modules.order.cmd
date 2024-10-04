@@ -1,1 +1,1 @@
-savedcmd_/home/nurbol/Desktop/tutorial_kernel/modules.order := {   echo /home/nurbol/Desktop/tutorial_kernel/hello_kernel.o; :; } > /home/nurbol/Desktop/tutorial_kernel/modules.order
+savedcmd_/home/nurbol/Desktop/practice_kernel/hello/modules.order := {   echo /home/nurbol/Desktop/practice_kernel/hello/hello_kernel.o; :; } > /home/nurbol/Desktop/practice_kernel/hello/modules.order
