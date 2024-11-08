@@ -1,6 +1,7 @@
 ## Please make sure that your dts contains the following lines:
 
-`/ {
+`
+/ {
     gpio-leds {
         compatible = "gpio-leds";
         
@@ -10,4 +11,5 @@
             gpios = <&gpio1 0 GPIO_ACTIVE_LOW>;  // GPIO1_IO00
         };
     };
-};`
+};
+`
