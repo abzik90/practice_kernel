@@ -1,1 +1,1 @@
-savedcmd_/home/nurbol/Desktop/practice_kernel/hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/nurbol/Desktop/practice_kernel/hello/Module.symvers -T /home/nurbol/Desktop/practice_kernel/hello/modules.order -i Module.symvers -e 
+savedcmd_/home/nurbol/Desktop/practice_kernel/hello/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/nurbol/Desktop/practice_kernel/hello/Module.symvers -T /home/nurbol/Desktop/practice_kernel/hello/modules.order -i Module.symvers -e 

@@ -1,8 +1,7 @@
-# Makefile
-obj-m += hello_kernel.o
+obj-m += io_interrupts.o
 
 # Path to the kernel source for your ARM64 target
-KERNEL_SOURCE := /home/nurbol/Desktop/forlinx-kernel/linux-imx-lf-6.6.y
+KERNEL_SOURCE := /home/nurbol/Desktop/forlinx-kernel/linux-imx-bk
 
 # Cross-compilation settings
 ARCH := arm64
